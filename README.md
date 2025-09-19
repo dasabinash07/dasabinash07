@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Abinash Das</h1>
 - 📫 How to reach me **dasabinash0708@gmail.com**
 
