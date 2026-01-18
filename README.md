@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://excel.cloud.microsoft" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/18e75952-4e4b-4879-8b90-6f34e2026758" alt="excel" width="40" height="40"/> </a> <a href="https://app.powerbi.com" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/30d08ec4-4648-4ddb-8fed-767b86b92123" alt="powerbi" width="40" height="40"/> </p>
 
 
 <!--
